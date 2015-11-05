@@ -1,0 +1,7 @@
+pl/altconnect/repositories/MessageRepository.class
+pl/altconnect/config/CouchBaseConfig.class
+pl/altconnect/controllers/MainController.class
+pl/altconnect/services/MessageService.class
+pl/altconnect/CouchBaseConnectionApplication.class
+pl/altconnect/beans/Message.class
+pl/altconnect/config/WebConfig.class

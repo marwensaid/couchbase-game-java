@@ -1,0 +1,7 @@
+/home/msaidi/IdeaProjects/couchbaseGame/src/main/java/pl/altconnect/config/WebConfig.java
+/home/msaidi/IdeaProjects/couchbaseGame/src/main/java/pl/altconnect/beans/Message.java
+/home/msaidi/IdeaProjects/couchbaseGame/src/main/java/pl/altconnect/controllers/MainController.java
+/home/msaidi/IdeaProjects/couchbaseGame/src/main/java/pl/altconnect/repositories/MessageRepository.java
+/home/msaidi/IdeaProjects/couchbaseGame/src/main/java/pl/altconnect/CouchBaseConnectionApplication.java
+/home/msaidi/IdeaProjects/couchbaseGame/src/main/java/pl/altconnect/services/MessageService.java
+/home/msaidi/IdeaProjects/couchbaseGame/src/main/java/pl/altconnect/config/CouchBaseConfig.java
